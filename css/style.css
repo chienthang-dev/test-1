@@ -963,8 +963,8 @@ html{
 
   background:
     linear-gradient(
-      rgba(255,247,251,0.80),
-      rgba(255,247,251,0.80)
+      rgba(255,247,251,0.25),
+      rgba(255,247,251,0.25)
     ),
     linear-gradient(var(--global-grid) 1px, transparent 1px),
     linear-gradient(90deg, var(--global-grid) 1px, transparent 1px);
